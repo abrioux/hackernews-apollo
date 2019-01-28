@@ -48,7 +48,7 @@ From the `/server` directory:
 ### `yarn start`
 
 Runs the server in the development mode.<br>
-Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
+Open [http://localhost:4000](http://localhost:4000) to view GraphQL playground in the browser.
 
 ### `yarn prisma deploy`
 
