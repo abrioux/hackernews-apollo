@@ -4,6 +4,7 @@
 /node_modules
 /server/node_modules
 /server/src/generated
+/server/prisma/prisma.yml
 /.pnp
 .pnp.js
 
